@@ -15,7 +15,7 @@
  * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
  * License for the specific language governing permissions and limitations
  * under the License.
- *
+ * test
  ****************************************************************************/
 
 #ifndef __VENDOR_AMBIQ_CHIP_CHIP_NAME_CHIP_H
