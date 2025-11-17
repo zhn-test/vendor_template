@@ -1,6 +1,7 @@
 This a vendor project template that it uses to create initial version vendor project,
 You can use rename.py to replace some name according to vendor specify name.
 The replace names are vendor_name, board_name, chip_name.
+Test.
 
 The script usage:
 > python rename.py
